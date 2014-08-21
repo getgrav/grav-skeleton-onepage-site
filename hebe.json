@@ -1,0 +1,24 @@
+{
+   "project":"grav-skeleton-onepage-site",
+   "platforms":{
+      "grav":{
+         "nodes":{
+            "skeleton":[
+               {
+                  "source":"/",
+                  "destination":"/user"
+               }
+            ],
+            "error plugin":[{
+               "project":"grav-plugin-error"
+            }],
+            "problems plugin":[{
+               "project":"grav-plugin-problems"
+            }],
+            "antimatter theme":[{
+               "project":"grav-theme-antimatter"
+            }]
+         }
+      }
+   }
+}
