@@ -1,4 +1,4 @@
-# Grav Shop One-Page Skeleton
+# Grav One-Page Skeleton
 
 The *One-Page Site* skeleton is a [Grav](http://github.com/getgrav/grav) skeleton and includes a *user* folder giving an example of a one-page site utilizing **modular pages** developed using Grav.
 
