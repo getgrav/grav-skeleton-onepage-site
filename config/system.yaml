@@ -3,13 +3,10 @@ home:
 
 pages:
   theme: antimatter
-  markdown_extra: true
+  markdown_extra: false
   process:
     markdown: true
     twig: false
-  events:
-    page: true
-    twig: true
 
 cache:
   enabled: true
