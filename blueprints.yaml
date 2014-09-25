@@ -5,7 +5,8 @@ icon: comments
 author:
   name: Team Grav
   email: devs@getgrav.org
-homepage: http://getgrav.org
+  url: http://getgrav.org
+homepage: https://github.com/getgrav/grav-skeleton-onepage-site
 demo: http://demo.getgrav.org/onepage-skeleton
 keywords: onepage, skeleton, scroll, single, page
 bugs: https://github.com/getgrav/grav-skeleton-onepage-site/issues
