@@ -8,6 +8,6 @@ author:
   url: http://getgrav.org
 homepage: https://github.com/getgrav/grav-skeleton-onepage-site
 demo: http://demo.getgrav.org/onepage-skeleton
-keywords: onepage, skeleton, scroll, single, page
+keywords: onepage, skeleton, scroll, single, page, modular
 bugs: https://github.com/getgrav/grav-skeleton-onepage-site/issues
 license: MIT
