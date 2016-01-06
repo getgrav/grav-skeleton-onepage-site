@@ -1,3 +1,9 @@
+# v1.0.2
+## 01/06/2016
+
+1. [](#improved)
+    * Moved dependencies to master branch
+
 # v1.0.1
 ## 04/24/2015
 
