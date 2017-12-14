@@ -29,5 +29,5 @@ features:
       icon: heart
 ---
 
-## Stuffed full of Amazing Features
-### This is a non-inclusive smattering of them
+# Stuffed Full of Features
+## **Check out small smattering...**
