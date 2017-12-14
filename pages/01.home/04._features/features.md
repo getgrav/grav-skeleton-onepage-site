@@ -26,7 +26,7 @@ features:
     - header: Responsive Design
       icon: html5
     - header: Awesomazing
-      icon: heart
+      icon: heart-o
 ---
 
 # Stuffed Full of Features
