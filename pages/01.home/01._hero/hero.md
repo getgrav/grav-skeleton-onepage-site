@@ -2,14 +2,12 @@
 title: Homepage Showcase
 menu: Top
 
-background:
-    color: light
-    parallax: false
+hero_classes: text-light
 text_align: center
 ---
 
-# Welcome to Grav
-## **Fast, Simple, Powerful...**
+# Say Hello to Grav
+## Fast, Simple, Powerful...
 
 Grav is a modern flat-file CMS system that focuses on  
 making web development fun again.
