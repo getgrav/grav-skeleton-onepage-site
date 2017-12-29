@@ -2,8 +2,8 @@
 title: Homepage Showcase
 menu: Top
 
-hero_classes: text-light title-center
-text_align: center
+hero_classes: text-light
+hero_align: center
 ---
 
 # Say Hello to Grav
