@@ -1,9 +1,8 @@
 ---
-title: Homepage Showcase
+title: 'Homepage Showcase'
 menu: Top
-
 hero_classes: text-light
-hero_align: center
+hero_image: header.jpg
 ---
 
 # Say Hello to Grav
