@@ -1,5 +1,5 @@
 ---
-title: Homepage Callout
+title: Homepage Text Callout
 menu: Easy Content
 image_align: right
 ---

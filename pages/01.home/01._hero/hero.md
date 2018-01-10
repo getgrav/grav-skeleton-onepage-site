@@ -1,5 +1,5 @@
 ---
-title: 'Homepage Showcase'
+title: 'Homepage Hero'
 menu: Top
 hero_classes: text-light
 hero_image: header.jpg
