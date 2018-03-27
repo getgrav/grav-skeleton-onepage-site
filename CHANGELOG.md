@@ -1,3 +1,9 @@
+# v2.0.0
+## 03/26/2018
+
+1. [](#new)
+    * Bit updated! Now based on Quark theme
+
 # v1.0.2
 ## 01/06/2016
 
