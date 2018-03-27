@@ -30,7 +30,7 @@ assets:
   js_minify: true
 
 debugger:
-  enabled: true
+  enabled: false
   twig: true
   shutdown:
     close_connection: true
