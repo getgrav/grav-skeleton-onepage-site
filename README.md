@@ -1,6 +1,6 @@
 # Grav One-Page Skeleton
 
-The *One-Page Site* skeleton is a [Grav](http://github.com/getgrav/grav) skeleton and includes a *user* folder giving an example of a one-page site utilizing [modular pages](http://learn.getgrav.org/content/content-pages) developed using Grav.
+The *One-Page Site* skeleton is a [Grav](http://github.com/getgrav/grav) skeleton based on the Quark theme and includes a *user* folder giving an example of a one-page site utilizing [modular pages](http://learn.getgrav.org/content/content-pages) developed using Grav.
 
 # Installation
 
