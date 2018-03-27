@@ -2,7 +2,7 @@ home:
   alias: '/home'
 
 pages:
-  theme: antimatter
+  theme: quark
   markdown:
     extra: false
   process:
