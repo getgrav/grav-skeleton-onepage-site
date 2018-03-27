@@ -1,6 +1,6 @@
 name: One-Page Site
-version: 1.0.2
-description: "The **One-Page Skeleton** provides a great example of how to build a modern one-page design with navigation that scrolls to the relevant section of the page."
+version: 2.0.0
+description: "The **One-Page Skeleton** provides a great example of how to build a modern one-page design with navigation that scrolls to the relevant section of the page. This skeleton uses the Quark theme."
 icon: comments
 author:
   name: Team Grav
@@ -8,6 +8,6 @@ author:
   url: http://getgrav.org
 homepage: https://github.com/getgrav/grav-skeleton-onepage-site
 demo: http://demo.getgrav.org/onepage-skeleton
-keywords: onepage, skeleton, scroll, single, page, modular
+keywords: onepage, quark, skeleton, scroll, single, page, modular
 bugs: https://github.com/getgrav/grav-skeleton-onepage-site/issues
 license: MIT
