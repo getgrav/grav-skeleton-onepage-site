@@ -4,37 +4,37 @@ menu: Features
 class: small
 features:
     - header: Markdown Syntax
-      icon: fa fa-text-height
+      icon: text-height
     - header: Twig Templating
-      icon: fa fa-code
+      icon: code
     - header: Smart Caching
-      icon: fa fa-rocket
+      icon: rocket
     - header: Flexible Taxonomies
-      icon: fa fa-tags
+      icon: tags
     - header: Simple Install
-      icon: fa fa-cloud-download
+      icon: cloud-arrow-down
     - header: Powerful Plugins
-      icon: fa fa-cogs
+      icon: gears
     - header: Intuitive UI
-      icon: fa fa-dashboard
+      icon: gauge-high
     - header: File-Based
-      icon: fa fa-file-text
+      icon: file-lines
     - header: Multi-Language
-      icon: fa fa-language
+      icon: language
     - header: Users & Roles
-      icon: fa fa-users  
+      icon: users
     - header: Image Processing
-      icon: fa fa-image   
+      icon: image
     - header: Documentation
-      icon: fa fa-bookmark
-    - header: On Github
-      icon: fa fa-github
+      icon: bookmark
+    - header: Open Source
+      icon: code-branch
     - header: Responsive Design
-      icon: fa fa-html5
+      icon: mobile-screen
     - header: CLI Power
-      icon: fa fa-terminal  
+      icon: terminal
     - header: Awesomazing
-      icon: fa fa-heart-o
+      icon: heart
 ---
 
 # Stuffed Full of Features

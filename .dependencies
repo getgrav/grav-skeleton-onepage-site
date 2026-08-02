@@ -1,17 +1,65 @@
 git:
+    admin2:
+        url: https://github.com/getgrav/grav-plugin-admin2
+        path: user/plugins/admin2
+        branch: develop
+    api:
+        url: https://github.com/getgrav/grav-plugin-api
+        path: user/plugins/api
+        branch: develop
+    flex-objects:
+        url: https://github.com/trilbymedia/grav-plugin-flex-objects
+        path: user/plugins/flex-objects
+        branch: develop
+    form:
+        url: https://github.com/getgrav/grav-plugin-form
+        path: user/plugins/form
+        branch: develop
+    login:
+        url: https://github.com/getgrav/grav-plugin-login
+        path: user/plugins/login
+        branch: develop
+    email:
+        url: https://github.com/getgrav/grav-plugin-email
+        path: user/plugins/email
+        branch: develop
     error:
         url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
-        branch: master
+        branch: develop
     problems:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
-        branch: master
-    quark:
-        url: https://github.com/getgrav/grav-theme-quark
-        path: user/themes/quark
-        branch: master
+        branch: develop
+    quark2:
+        url: https://github.com/getgrav/grav-theme-quark2
+        path: user/themes/quark2
+        branch: develop
 links:
+    admin2:
+        src: grav-plugin-admin2
+        path: user/plugins/admin2
+        scm: github
+    api:
+        src: grav-plugin-api
+        path: user/plugins/api
+        scm: github
+    flex-objects:
+        src: grav-plugin-flex-objects
+        path: user/plugins/flex-objects
+        scm: github
+    form:
+        src: grav-plugin-form
+        path: user/plugins/form
+        scm: github
+    login:
+        src: grav-plugin-login
+        path: user/plugins/login
+        scm: github
+    email:
+        src: grav-plugin-email
+        path: user/plugins/email
+        scm: github
     error:
         src: grav-plugin-error
         path: user/plugins/error
@@ -20,7 +68,7 @@ links:
         src: grav-plugin-problems
         path: user/plugins/problems
         scm: github
-    quark:
-        src: grav-theme-quark
-        path: user/themes/quark
+    quark2:
+        src: grav-theme-quark2
+        path: user/themes/quark2
         scm: github
