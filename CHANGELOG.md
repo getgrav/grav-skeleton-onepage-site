@@ -1,3 +1,15 @@
+# v3.0.0
+## 08/02/2026
+
+1. [](#new)
+    * Updated for **Grav 2** with the **Quark2** theme and **Admin Next**
+    * Bundled the Admin Next stack (admin2, api, flex-objects, form, login, email) so the skeleton is ready to use out of the box
+1. [](#bugfix)
+    * Fixed invalid indentation in the Highlights module that stopped its feature list from loading
+    * Updated the feature icons to Font Awesome 6 names so they render in Quark2
+    * Removed theme classes that only existed in Quark 1
+    * Fixed a typo in the Easy Content module
+
 # v2.0.0
 ## 03/26/2018
 

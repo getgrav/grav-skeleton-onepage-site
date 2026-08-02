@@ -9,6 +9,11 @@ plugins/*
 themes/*
 !themes/.*
 accounts/*
+!accounts/.*
+config/security.yaml
+config/security-private.php
+config/versions.yaml
+config/plugins/api.yaml
 
 # OS Generated
 .DS_Store*
